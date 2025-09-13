@@ -4,7 +4,7 @@
 💡 Enthusiastic about **Computer Engineering**, transitioning from **Nursing** to programming.  
 💻 Passionate about **Web Development** and **Artificial Intelligence**, with a stronger focus on **Backend Development**.  
 🌍 From **Cabo Verde, São Vicente Island**, and a lifelong **self-taught learner**.  
-🔧 Currently working on **developing solutions for internet service providers using Mikrotik devices**.  
+🔧 Currently Co-founder and Backend Developer at the Cape Verdean startup  [**Notifica.cv**](https://notifica.cv).
 
 ### 📊 GitHub Stats
 <div>
