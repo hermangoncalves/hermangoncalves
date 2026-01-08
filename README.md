@@ -8,7 +8,7 @@
 
 ### 📊 GitHub Stats
 <div>
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=hermangoncalves&hide_title=true&show_icons=true&theme=dark" alt="Nuno Lima" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=hermangoncalves&hide_title=true&show_icons=true&theme=dark" alt="Herman Gonçalves" />
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermangoncalves&langs_count=10&hide_title=false&layout=compact&theme=dark&count_private=true&hide=css,html" />
  </div>
 
@@ -26,6 +26,6 @@
 <div>
   <h2  >Connect with me</h2>
 <a href="https://www.instagram.com/h_g0ncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hermangoncalves" height="35" width="45" /></a>
-<a href="https://wa.link/32kdgv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/whatsapp.svg" alt="play craft" height="35" width="35" /></a>
+<a href="https://wa.link/32kdgv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/whatsapp.svg" alt="Herman Gonçalves" height="35" width="35" /></a>
 
  </div>
